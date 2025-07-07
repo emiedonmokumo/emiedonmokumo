@@ -4,7 +4,7 @@ I'm Emiedonmokumo Dick-Boro, a passionate full-stack developer who enjoys buildi
 
 ### 🚀 What I'm Up To
 - 🔧 Currently working on building a side project **LostAM** right here on GitHub.
-- 🌱 Actively learning and improving my skills in **DevOps**, **Python**, **Typescript/Javascript**, **Next.js**, **Node.js**, and **MongoDB**.
+- 🌱 Actively learning and improving my skills in **DevOps** and **Backend Development**.
 - 📘 Documenting my journey, projects, and experiments as I go.
 
 ### 👀 What I’m Looking For
