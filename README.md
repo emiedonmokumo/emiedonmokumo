@@ -1,4 +1,4 @@
-![Profile views](https://gitview-eta.vercel.app/api/track?username=emiedonmokumo)
+![Profile views](https://gitview-eta.vercel.app/api/track?username=emiedonmokumo&v=1)
 
 ## Hi there 👋
 
