@@ -1,3 +1,4 @@
+![Profile views](https://yourdomain.com/api/track?username=YOUR_GITHUB_USERNAME)
 ## Hi there 👋
 
 I'm Emiedonmokumo Dick-Boro, a passionate full-stack developer who enjoys building scalable web applications and learning new technologies.
