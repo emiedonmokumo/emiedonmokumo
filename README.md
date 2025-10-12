@@ -1,4 +1,5 @@
-![Profile views](https://yourdomain.com/api/track?username=emiedonmokumo)
+![Profile views](https://gitview-eta.vercel.app/api/track?username=emiedonmokumo)
+
 ## Hi there 👋
 
 I'm Emiedonmokumo Dick-Boro, a passionate full-stack developer who enjoys building scalable web applications and learning new technologies.
