@@ -1,4 +1,4 @@
-![Profile views](https://gitview-eta.vercel.app/api/track?username=emiedonmokumo&v=1)
+<img src="https://github.com/emiedonmokumo/gitview/blob/main/assets/demo.png" width="100%">
 
 ## Hi there 👋
 
