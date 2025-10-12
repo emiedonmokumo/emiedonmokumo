@@ -1,4 +1,4 @@
-<img src="https://github.com/emiedonmokumo/gitview/blob/main/assets/demo.png" width="100%">
+<img src="https://github.com/emiedonmokumo/emiedonmokumo/blob/main/assets/banner.png" width="100%">
 
 ## Hi there 👋
 
