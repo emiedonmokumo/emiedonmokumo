@@ -20,17 +20,38 @@
 
 Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open Source Contributor.
 
-### 🚀 What I'm Up To
-- 🔧 Currently working on building a side project **LostAM** right here on GitHub.
-- 🌱 Actively learning and improving my skills in **DevOps** and **Backend Development**.
-- 📘 Documenting my journey, projects, and experiments as I go.
+<!-- create a html table for listing my demonstration projects -->
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>UBR API</b></td>
+    <td>A trend insights app integrating Google Trends, Exploding Topics & Reddit data.</td>
+    <td>Node.js, Express.js, MongoDB</td>
+    <td><a href="https://github.com/emiedonmokumo/ubr-api">View Project</a></td>
+  </tr>
+  <!-- <tr>
+    <td><b>BizLink</b></td>
+    <td>A SaaS platform like Jiji.ng for showcasing products, managing accounts, and secure payments.</td>
+    <td>React, Express, MongoDB, AWS</td>
+    <td><a href="#">View Project</a></td>
+  </tr>
+  <tr>
+    <td><b>MailSync API</b></td>
+    <td>Full email management API supporting Gmail IMAP, sending, and tracking emails.</td>
+    <td>Node.js, IMAP, SendGrid</td>
+    <td><a href="#">View Project</a></td>
+  </tr>
+  <tr>
+    <td><b>InvestorHub</b></td>
+    <td>Investor data exchange system for company profiles, deals, and investment analytics.</td>
+    <td>NestJS, MongoDB, JWT</td>
+    <td><a href="#">View Project</a></td>
+  </tr> -->
+</table>
 
-### 👀 What I’m Looking For
-- 👯 Open to collaboration on meaningful open-source projects or early-stage startups.
-- 🤝 Always ready to connect with other developers and tech enthusiasts.
 
-### 📫 Let’s Connect!
-- Twitter: [@emiedonmokumo](https://twitter.com/emiedonmokumo)
-- LinkedIn: [linkedin.com/in/emiedonmokumo](https://linkedin.com/in/emiedonmokumo)
-
-> ⚠️ Portfolio in progress — follow along as I build it out publicly!
