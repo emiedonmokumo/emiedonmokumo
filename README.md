@@ -85,7 +85,7 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
     <td><b>GoodPlace CRM</b></td>
     <td>Goodplace CRM is a platform that helps businesses manage and engage with investors by centralizing profiles, deals, and communications, making investor relations and fundraising more efficient.</td>
     <td>Next.js, TailwindCSS, MongoDB, Stripe, Cloudinary, GCP (Oauth), Azure (App Registration), NodeMailer</td>
-    <td><a href="https://app.goodplacecrm.com">View Project</a></td>
+    <td><a href="https://app.goodplacecrm.com">View App (Repo Private)</a></td>
   </tr>
   <tr>
     <td><b>UBR API</b></td>
