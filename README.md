@@ -31,16 +31,16 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
   <tr>
     <td><b>UBR API</b></td>
     <td>A trend insights app integrating Google Trends, Exploding Topics & Reddit data.</td>
-    <td>Node.js, Express.js, MongoDB</td>
+    <td>Node.js, Express.js, MongoDB, Stripe</td>
     <td><a href="https://github.com/emiedonmokumo/ubr-api">View Project</a></td>
   </tr>
-  <!-- <tr>
-    <td><b>BizLink</b></td>
-    <td>A SaaS platform like Jiji.ng for showcasing products, managing accounts, and secure payments.</td>
-    <td>React, Express, MongoDB, AWS</td>
-    <td><a href="#">View Project</a></td>
-  </tr>
   <tr>
+    <td><b>Shopping Cart System</b></td>
+    <td>Simple shopping cart system built with React, Redux and Redux Toolkit. Basically for demonstration purposes.</td>
+    <td>React+Vite, Redux & Redux Toolkit</td>
+    <td><a href="https://github.com/emiedonmokumo/Shopping-cart-Online-shop">View Project</a></td>
+  </tr>
+  <!-- <tr>
     <td><b>MailSync API</b></td>
     <td>Full email management API supporting Gmail IMAP, sending, and tracking emails.</td>
     <td>Node.js, IMAP, SendGrid</td>
