@@ -51,7 +51,7 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
 </table>
 </details>
 
-<details name="Demonstration Projects" open  style="float:left;">
+<details name="Paid Projects" open  style="float:left;">
   <summary  align="center"><h1>Paid Projects</h1></summary>
   <table align="center">
   <tr>
