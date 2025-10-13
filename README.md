@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open Source Contributor.
+Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps. Experienced in building scalable backend systems, automating deployments, and contributing to open-source projects.
 
 <details name="Open Source Contributions" open style="float:left; width:100%;">
   <summary align="center"><h1>Open Source Contributions</h1></summary>
