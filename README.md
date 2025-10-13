@@ -1,7 +1,5 @@
 <img src="https://github.com/emiedonmokumo/emiedonmokumo/blob/main/assets/banner.png" width="100%">
 
-## Hi there 👋
-
 Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open Source Contributor.
 
 ### 🚀 What I'm Up To
