@@ -21,6 +21,19 @@
 Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open Source Contributor.
 
 <!-- create a html table for listing my demonstration projects -->
+<p align="center">
+  <button id="toggleButton" onclick="toggleTable()" style="
+    background-color:#00454F;
+    color:white;
+    border:none;
+    padding:8px 16px;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:600;
+  ">Demonstration Projects</button>
+</p>
+
+<div id="projectTable" style="display:none;">
 <table align="center">
   <tr>
     <th>Project</th>
@@ -53,5 +66,19 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
     <td><a href="#">View Project</a></td>
   </tr> -->
 </table>
+</div>
 
 
+<script>
+function toggleTable() {
+  const table = document.getElementById('projectTable');
+  const btn = document.getElementById('toggleButton');
+  if (table.style.display === 'none') {
+    table.style.display = 'block';
+    btn.textContent = 'Hide Projects';
+  } else {
+    table.style.display = 'none';
+    btn.textContent = 'Show Projects';
+  }
+}
+</script>
