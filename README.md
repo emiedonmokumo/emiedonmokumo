@@ -20,6 +20,27 @@
 
 Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open Source Contributor.
 
+<details name="Open Source Contributions" open style="float:left; width:100%;">
+  <summary align="center"><h1>Open Source Contributions</h1></summary>
+
+  <table align="center">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Contribution</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td><b>Axios</b></td>
+      <td>Promise-based HTTP client for Node.js and the browser.</td>
+      <td>Improved error handling and documentation updates.</td>
+      <td><a href="https://github.com/axios/axios/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
+    </tr>
+  </table>
+
+</details>
+
+
 <details name="Demonstration Projects" open  style="float:left;">
   <summary  align="center"><h1>Demonstration Projects</h1></summary>
 
