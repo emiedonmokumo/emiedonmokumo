@@ -76,7 +76,7 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
     <td><b>Gifted Natus Foundation</b></td>
     <td>Landing Page with CRUD functionalities (Blogging)</td>
     <td>Next.js, TailwindCSS, MongoDB, Cloudinary, Quill</td>
-    <td><a href="#">View Project</a></td>
+    <td><a href="https://github.com/emiedonmokumo/gifted-natus-foundation">View Project</a></td>
   </tr>
   <!-- <tr>
     <td><b>InvestorHub</b></td>
