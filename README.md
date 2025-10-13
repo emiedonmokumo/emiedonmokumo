@@ -20,7 +20,6 @@
 
 Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open Source Contributor.
 
-<!-- create a html table for listing my demonstration projects -->
 <details name="Demonstration Projects" open  style="float:left;">
   <summary  align="center"><h1>Demonstration Projects</h1></summary>
 
@@ -30,12 +29,6 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
     <th>Description</th>
     <th>Tech Stack</th>
     <th>Link</th>
-  </tr>
-  <tr>
-    <td><b>UBR API</b></td>
-    <td>A trend insights app integrating Google Trends, Exploding Topics & Reddit data.</td>
-    <td>Node.js, Express.js, MongoDB, Stripe</td>
-    <td><a href="https://github.com/emiedonmokumo/ubr-api">View Project</a></td>
   </tr>
   <tr>
     <td><b>Shopping Cart System</b></td>
@@ -57,3 +50,39 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
   </tr> -->
 </table>
 </details>
+
+<details name="Demonstration Projects" open  style="float:left;">
+  <summary  align="center"><h1>Paid Projects</h1></summary>
+  <table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>GoodPlace CRM</b></td>
+    <td>Goodplace CRM is a platform that helps businesses manage and engage with investors by centralizing profiles, deals, and communications, making investor relations and fundraising more efficient.</td>
+    <td>Next.js, TailwindCSS, MongoDB, Stripe, Cloudinary, GCP (Oauth), Azure (App Registration), NodeMailer</td>
+    <td><a href="https://app.goodplacecrm.com">View Project</a></td>
+  </tr>
+  <tr>
+    <td><b>UBR API</b></td>
+    <td>A trend insights app integrating Google Trends, Exploding Topics & Reddit data.</td>
+    <td>Node.js, Express.js, MongoDB, Stripe</td>
+    <td><a href="https://github.com/emiedonmokumo/ubr-api">View Project</a></td>
+  </tr>
+  <tr>
+    <td><b>Gifted Natus Foundation</b></td>
+    <td>Landing Page with CRUD functionalities (Blogging)</td>
+    <td>Next.js, TailwindCSS, MongoDB, Cloudinary, Quill</td>
+    <td><a href="#">View Project</a></td>
+  </tr>
+  <!-- <tr>
+    <td><b>InvestorHub</b></td>
+    <td>Investor data exchange system for company profiles, deals, and investment analytics.</td>
+    <td>NestJS, MongoDB, JWT</td>
+    <td><a href="#">View Project</a></td>
+  </tr> -->
+</table>
+<details>
