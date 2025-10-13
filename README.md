@@ -57,13 +57,13 @@ Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps
     <td>React+Vite, Redux & Redux Toolkit</td>
     <td><a href="https://github.com/emiedonmokumo/Shopping-cart-Online-shop">View Project</a></td>
   </tr>
-  <!-- <tr>
-    <td><b>MailSync API</b></td>
-    <td>Full email management API supporting Gmail IMAP, sending, and tracking emails.</td>
-    <td>Node.js, IMAP, SendGrid</td>
-    <td><a href="#">View Project</a></td>
+   <tr>
+    <td><b>GitView</b></td>
+    <td>A GitHub profile visitor tracking service using tracking pixels or badges</td>
+    <td>Node.js, Express, Axios, Geoip</td>
+    <td><a href="https://github.com/emiedonmokumo/gitview">View Project</a></td>
   </tr>
-  <tr>
+  <!--<tr>
     <td><b>InvestorHub</b></td>
     <td>Investor data exchange system for company profiles, deals, and investment analytics.</td>
     <td>NestJS, MongoDB, JWT</td>
