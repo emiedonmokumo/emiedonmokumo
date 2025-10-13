@@ -85,4 +85,4 @@ Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open 
     <td><a href="#">View Project</a></td>
   </tr> -->
 </table>
-<details>
+</details>
