@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Emiedonmokumo Dick-Boro, a passionate full-stack developer who enjoys building scalable web applications and learning new technologies.
+Full-stack Developer (AI Engineering), DevOps Engineer, Backend Major, and Open Source Contributor.
 
 ### 🚀 What I'm Up To
 - 🔧 Currently working on building a side project **LostAM** right here on GitHub.
@@ -18,4 +18,3 @@ I'm Emiedonmokumo Dick-Boro, a passionate full-stack developer who enjoys buildi
 - LinkedIn: [linkedin.com/in/emiedonmokumo](https://linkedin.com/in/emiedonmokumo)
 
 > ⚠️ Portfolio in progress — follow along as I build it out publicly!
-
