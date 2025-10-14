@@ -29,6 +29,12 @@ Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps
   📫 Reach me: <a href="mailto:boro2dev@gmail.com">boro2dev@gmail.com</a>
 </p>
 
+<!-- List my articles -->
+<p align="left">
+  📝 Latest Articles:
+  <a href="https://dev.to/emiedonmokumo/the-hidden-limitation-of-mongoose-discriminators-that-surprises-many-developers-3fh" target="_blank">The Hidden Limitation of Mongoose Discriminators That Surprises Many Developers</a> •
+  <a href="https://dev.to/emiedonmokumo/moving-a-specific-commit-to-another-branch-in-git-bmo" target="_blank">Moving a Specific Commit to Another Branch in Git</a> •
+</p>
 
 <details name="Open Source Contributions" open style="float:left; width:100%;">
   <summary align="center"><h1>Open Source Contributions</h1></summary>
