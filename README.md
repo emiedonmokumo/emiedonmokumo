@@ -107,3 +107,48 @@ Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps
   </tr> -->
 </table>
 </details>
+
+<details name="Tech Stack & Tools" open style="float:left; width:100%;">
+  <summary align="center"><h1>🧠 Tech Stack & Tools</h1></summary>
+
+  <p align="center">
+    <!-- Languages -->
+    <img src="https://img.shields.io/badge/|_JavaScript_-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/|_TypeScript_-3178C6?style=plastic&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Python_-3776AB?style=plastic&logo=python&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/|_C++_-00599C?style=plastic&logo=cplusplus&logoColor=white"/> -->
+  </p>
+
+  <p align="center">
+    <!-- Frameworks -->
+    <img src="https://img.shields.io/badge/|_React_-61DAFB?style=plastic&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/|_Next.js_-000000?style=plastic&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Node.js_-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_NestJS_-E0234E?style=plastic&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Express.js_-404D59?style=plastic&logo=express&logoColor=white"/>
+  </p>
+
+  <p align="center">
+    <!-- Databases -->
+    <img src="https://img.shields.io/badge/|_MongoDB_-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_PostgreSQL_-336791?style=plastic&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_MySQL_-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+  </p>
+
+  <p align="center">
+    <!-- DevOps & Cloud -->
+    <img src="https://img.shields.io/badge/|_Docker_-2496ED?style=plastic&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_GCP_-4285F4?style=plastic&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_AWS_-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Azure_-0078D4?style=plastic&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_GitHub_Actions_-2088FF?style=plastic&logo=githubactions&logoColor=white"/>
+  </p>
+
+  <p align="center">
+    <!-- Tools -->
+    <img src="https://img.shields.io/badge/|_VS_Code_-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Postman_-FF6C37?style=plastic&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Figma_-F24E1E?style=plastic&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Linux_-FCC624?style=plastic&logo=linux&logoColor=black"/>
+  </p>
+</details>
