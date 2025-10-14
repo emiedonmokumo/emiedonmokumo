@@ -16,6 +16,10 @@
   <a href="https://drive.google.com/file/d/1rYjxLthOayD8oQvRL-IxK3IxBA2b3bGS/view" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=00454F&style=plastic&logo=readthedocs&logoColor=white"/>
   </a>
+  <!-- dev.to -->
+  <a href="https://dev.to/emiedonmokumo" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=DEV.TO&color=0A0A0A&style=plastic&logo=devdotto&logoColor=white"/>
+  </a>
 </p>
 
 Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps. Experienced in building scalable backend systems, automating deployments, and contributing to open-source projects.
