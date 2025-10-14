@@ -78,8 +78,8 @@ Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps
 </table>
 </details>
 
-<details name="Paid Projects" open  style="float:left;">
-  <summary  align="center"><h1>Paid Projects</h1></summary>
+<details name="Freelance Projects" open  style="float:left;">
+  <summary  align="center"><h1>Freelance Projects</h1></summary>
   <table align="center">
   <tr>
     <th>Project</th>
