@@ -20,6 +20,12 @@
 
 Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps. Experienced in building scalable backend systems, automating deployments, and contributing to open-source projects.
 
+<p align="center">
+  💬 Open to collaborations on <b>AI-driven tools, DevOps automation,</b> and <b>full-stack projects</b><br>
+  📫 Reach me: <a href="mailto:boro2dev@gmail.com">emiedonmokumo@gmail.com</a>
+</p>
+
+
 <details name="Open Source Contributions" open style="float:left; width:100%;">
   <summary align="center"><h1>Open Source Contributions</h1></summary>
 
@@ -126,6 +132,7 @@ Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps
     <img src="https://img.shields.io/badge/|_Node.js_-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/|_NestJS_-E0234E?style=plastic&logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/|_Express.js_-404D59?style=plastic&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/|_Django_-092E20?style=plastic&logo=django&logoColor=white"/>
   </p>
 
   <p align="center">
