@@ -22,7 +22,7 @@
   </a>
 </p>
 
-Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps. Experienced in building scalable backend systems, automating deployments, and contributing to open-source projects.
+Software Engineer/Full-stack Developer specializing. Experienced in building scalable backend systems, automating deployments, and contributing to open-source projects.
 
 <p align="left">
   💬 Open to collaborations on <b>AI-driven tools, DevOps automation,</b> and <b>full-stack projects</b><br>
