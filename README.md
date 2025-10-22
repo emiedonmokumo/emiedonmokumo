@@ -52,6 +52,12 @@ Software Engineer/Full-stack Developer specializing in AI Engineering and DevOps
       <td>Improved error handling and documentation updates.</td>
       <td><a href="https://github.com/axios/axios/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
     </tr>
+    <tr>
+      <td><b>Spotflow-One</b></td>
+      <td>ReactJS SDK Library for accepting payments using Spotflow</td>
+      <td>Fixed a race condition in Spotflow React v2 checkout hook by implementing proper script load state management. The fix prevents premature SDK initialization by ensuring the `isReady` flag is only set after successful script loading, eliminating potential duplicate script injections and initialization issues.</td>
+      <td><a href="https://github.com/Spotflow-One/spotflow-react-v2-checkout/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
+    </tr>
   </table>
 
 </details>
