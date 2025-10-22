@@ -49,7 +49,7 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
     <tr>
       <td><b>Axios</b></td>
       <td>Promise-based HTTP client for Node.js and the browser.</td>
-      <td>Improved error handling and documentation updates.</td>
+      <td>Enhanced FormData handling in Node.js fetch adapter by fixing Content-Type header implementation for multipart/form-data requests, adding comprehensive tests, and improving cross-environment compatibility.</td>
       <td><a href="https://github.com/axios/axios/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
     </tr>
     <tr>
