@@ -130,6 +130,26 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
 </table>
 </details>
 
+<details name="Personal Projects" open  style="float:left;">
+  <summary  align="center"><h1>Personal Projects</h1></summary>
+  <table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>BookSlate</b></td>
+    <td>A modern, full-stack appointment booking system that enables professionals to efficiently manage client appointments with seamless Google Calendar integration.</td>
+    <td>Next.js 16, NestJS, PostgreSQL, TypeScript, TailwindCSS, JWT, Docker, Google Calendar API, AWS EC2</td>
+    <td>
+    <a href="https://github.com/emiedonmokumo/next-nest/blob/feature/google-calendar-integration">View Project</a>
+    </td>
+  </tr>
+</table>
+</details>
+
 <details name="Tech Stack & Tools" open style="float:left; width:100%;">
   <summary align="center"><h1>🧠 Tech Stack & Tools</h1></summary>
 
