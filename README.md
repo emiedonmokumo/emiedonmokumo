@@ -140,6 +140,12 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
     <td>Node.js, Express, Axios, Geoip</td>
     <td><a href="https://github.com/emiedonmokumo/gitview">View Project</a></td>
   </tr>
+  <tr>
+    <td><b>NestJS Playground</b></td>
+    <td>This workspace serves as a comprehensive learning playground for exploring NestJS framework concepts and building REST APIs. It contains multiple projects that demonstrate different aspects of NestJS development, from basic controllers and services to advanced concepts like database integration, authentication, and microservices.</td>
+    <td>NestJS, TypeScript, REST API, Authentication, Microservices</td>
+    <td><a href="https://github.com/emiedonmokumo/nestjs-playground">View Repo</a></td>
+  </tr>
 </table>
 </details>
 
