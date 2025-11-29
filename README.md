@@ -36,37 +36,9 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
   <a href="https://dev.to/emiedonmokumo/moving-a-specific-commit-to-another-branch-in-git-bmo" target="_blank">Moving a Specific Commit to Another Branch in Git</a> •
 </p>
 
-<details name="Open Source Contributions" open style="float:left; width:100%;">
-  <summary align="center"><h1>Open Source Contributions</h1></summary>
-
+<details name="Personal Projects" open  style="float:left;">
+  <summary  align="center"><h1>Personal Projects</h1></summary>
   <table align="center">
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Contribution</th>
-      <th>Link</th>
-    </tr>
-    <tr>
-      <td><b>Axios</b></td>
-      <td>Promise-based HTTP client for Node.js and the browser.</td>
-      <td>Enhanced FormData handling in Node.js fetch adapter by fixing Content-Type header implementation for multipart/form-data requests, adding comprehensive tests, and improving cross-environment compatibility.</td>
-      <td><a href="https://github.com/axios/axios/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
-    </tr>
-    <tr>
-      <td><b>Spotflow-One</b></td>
-      <td>ReactJS SDK Library for accepting payments using Spotflow</td>
-      <td>Fixed a race condition in Spotflow React v2 checkout hook by implementing proper script load state management. The fix prevents premature SDK initialization by ensuring the `isReady` flag is only set after successful script loading, eliminating potential duplicate script injections and initialization issues.</td>
-      <td><a href="https://github.com/Spotflow-One/spotflow-react-v2-checkout/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
-    </tr>
-  </table>
-
-</details>
-
-
-<details name="Demonstration Projects" open  style="float:left;">
-  <summary  align="center"><h1>Demonstration Projects</h1></summary>
-
-<table align="center">
   <tr>
     <th>Project</th>
     <th>Description</th>
@@ -74,23 +46,13 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
     <th>Link</th>
   </tr>
   <tr>
-    <td><b>Shopping Cart System</b></td>
-    <td>Simple shopping cart system built with React, Redux and Redux Toolkit. Basically for demonstration purposes.</td>
-    <td>React+Vite, Redux & Redux Toolkit</td>
-    <td><a href="https://github.com/emiedonmokumo/Shopping-cart-Online-shop">View Project</a></td>
+    <td><b>BookSlate</b></td>
+    <td>A modern, full-stack appointment booking system that enables professionals to efficiently manage client appointments with seamless Google Calendar integration.</td>
+    <td>Next.js 16, NestJS, PostgreSQL, TypeScript, TailwindCSS, JWT, Docker, Google Calendar API, AWS EC2</td>
+    <td>
+    <a href="https://github.com/emiedonmokumo/next-nest/blob/feature/google-calendar-integration">View Project</a>
+    </td>
   </tr>
-   <tr>
-    <td><b>GitView</b></td>
-    <td>A GitHub profile visitor tracking service using tracking pixels or badges</td>
-    <td>Node.js, Express, Axios, Geoip</td>
-    <td><a href="https://github.com/emiedonmokumo/gitview">View Project</a></td>
-  </tr>
-  <!--<tr>
-    <td><b>InvestorHub</b></td>
-    <td>Investor data exchange system for company profiles, deals, and investment analytics.</td>
-    <td>NestJS, MongoDB, JWT</td>
-    <td><a href="#">View Project</a></td>
-  </tr> -->
 </table>
 </details>
 
@@ -130,9 +92,36 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
 </table>
 </details>
 
-<details name="Personal Projects" open  style="float:left;">
-  <summary  align="center"><h1>Personal Projects</h1></summary>
+<details name="Open Source Contributions" open style="float:left; width:100%;">
+  <summary align="center"><h1>Open Source Contributions</h1></summary>
+
   <table align="center">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Contribution</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td><b>Axios</b></td>
+      <td>Promise-based HTTP client for Node.js and the browser.</td>
+      <td>Enhanced FormData handling in Node.js fetch adapter by fixing Content-Type header implementation for multipart/form-data requests, adding comprehensive tests, and improving cross-environment compatibility.</td>
+      <td><a href="https://github.com/axios/axios/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
+    </tr>
+    <tr>
+      <td><b>Spotflow-One</b></td>
+      <td>ReactJS SDK Library for accepting payments using Spotflow</td>
+      <td>Fixed a race condition in Spotflow React v2 checkout hook by implementing proper script load state management. The fix prevents premature SDK initialization by ensuring the `isReady` flag is only set after successful script loading, eliminating potential duplicate script injections and initialization issues.</td>
+      <td><a href="https://github.com/Spotflow-One/spotflow-react-v2-checkout/pulls?q=is%3Apr+author%3Aemiedonmokumo" target="_blank">View PR</a></td>
+    </tr>
+  </table>
+
+</details>
+
+<details name="Demonstration Projects" open  style="float:left;">
+  <summary  align="center"><h1>Demonstration Projects</h1></summary>
+
+<table align="center">
   <tr>
     <th>Project</th>
     <th>Description</th>
@@ -140,12 +129,16 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
     <th>Link</th>
   </tr>
   <tr>
-    <td><b>BookSlate</b></td>
-    <td>A modern, full-stack appointment booking system that enables professionals to efficiently manage client appointments with seamless Google Calendar integration.</td>
-    <td>Next.js 16, NestJS, PostgreSQL, TypeScript, TailwindCSS, JWT, Docker, Google Calendar API, AWS EC2</td>
-    <td>
-    <a href="https://github.com/emiedonmokumo/next-nest/blob/feature/google-calendar-integration">View Project</a>
-    </td>
+    <td><b>Shopping Cart System</b></td>
+    <td>Simple shopping cart system built with React, Redux and Redux Toolkit. Basically for demonstration purposes.</td>
+    <td>React+Vite, Redux & Redux Toolkit</td>
+    <td><a href="https://github.com/emiedonmokumo/Shopping-cart-Online-shop">View Project</a></td>
+  </tr>
+   <tr>
+    <td><b>GitView</b></td>
+    <td>A GitHub profile visitor tracking service using tracking pixels or badges</td>
+    <td>Node.js, Express, Axios, Geoip</td>
+    <td><a href="https://github.com/emiedonmokumo/gitview">View Project</a></td>
   </tr>
 </table>
 </details>
