@@ -153,22 +153,24 @@ Software Engineer/Full-stack Developer specializing. Experienced in building sca
   <summary align="center"><h1>🧠 Tech Stack & Tools</h1></summary>
 
   <p align="center">
-    <!-- Languages -->
-    <img src="https://img.shields.io/badge/|_JavaScript_-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/|_TypeScript_-3178C6?style=plastic&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/|_Python_-3776AB?style=plastic&logo=python&logoColor=white"/>
-    <!-- <img src="https://img.shields.io/badge/|_C++_-00599C?style=plastic&logo=cplusplus&logoColor=white"/> -->
-  </p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/|_JavaScript_-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/|_TypeScript_-3178C6?style=plastic&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_Python_-3776AB?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_PHP_-777BB4?style=plastic&logo=php&logoColor=white"/>
+</p>
 
   <p align="center">
-    <!-- Frameworks -->
-    <img src="https://img.shields.io/badge/|_React_-61DAFB?style=plastic&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/|_Next.js_-000000?style=plastic&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/|_Node.js_-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/|_NestJS_-E0234E?style=plastic&logo=nestjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/|_Express.js_-404D59?style=plastic&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/|_Django_-092E20?style=plastic&logo=django&logoColor=white"/>
-  </p>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/|_React_-61DAFB?style=plastic&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/|_Next.js_-000000?style=plastic&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_Node.js_-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_NestJS_-E0234E?style=plastic&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_Express.js_-404D59?style=plastic&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_Django_-092E20?style=plastic&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_PHP_-777BB4?style=plastic&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/|_Laravel_-FF2D20?style=plastic&logo=laravel&logoColor=white"/>
+</p>
 
   <p align="center">
     <!-- Databases -->
